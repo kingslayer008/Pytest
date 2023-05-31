@@ -16,3 +16,5 @@
 2023-05-31 19:52:03,206 :INFO : test_02_Add_to_Cart :[]
 2023-05-31 19:52:48,596 :INFO : test_01_Redirection :Checking the log
 2023-05-31 19:52:48,661 :INFO : test_02_Add_to_Cart :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-05-31 20:17:55,967 :INFO : test_01_Redirection :Checking the log
+2023-05-31 20:17:56,029 :INFO : test_02_Add_to_Cart :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
