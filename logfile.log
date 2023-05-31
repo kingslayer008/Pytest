@@ -1,0 +1,18 @@
+2023-05-31 18:04:14,366 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:06:35,464 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:09:00,950 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:13:37,585 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:16:45,845 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:17:12,264 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:30:27,687 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:32:06,017 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:34:31,771 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:36:01,637 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:36:59,211 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:36:59,256 :INFO : test_02_Add_to_Cart :[<selenium.webdriver.remote.webelement.WebElement (session="31d385ce2826c5b8bb2c0797eab0c521", element="8AA8F74501CB151847D2CE8C708E14F3_element_54")>, <selenium.webdriver.remote.webelement.WebElement (session="31d385ce2826c5b8bb2c0797eab0c521", element="8AA8F74501CB151847D2CE8C708E14F3_element_55")>, <selenium.webdriver.remote.webelement.WebElement (session="31d385ce2826c5b8bb2c0797eab0c521", element="8AA8F74501CB151847D2CE8C708E14F3_element_56")>, <selenium.webdriver.remote.webelement.WebElement (session="31d385ce2826c5b8bb2c0797eab0c521", element="8AA8F74501CB151847D2CE8C708E14F3_element_57")>]
+2023-05-31 18:39:46,769 :INFO : test_01_Redirection :Checking the log
+2023-05-31 18:39:46,827 :INFO : test_02_Add_to_Cart :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-05-31 19:51:52,627 :INFO : test_01_Redirection :Checking the log
+2023-05-31 19:52:03,206 :INFO : test_02_Add_to_Cart :[]
+2023-05-31 19:52:48,596 :INFO : test_01_Redirection :Checking the log
+2023-05-31 19:52:48,661 :INFO : test_02_Add_to_Cart :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
